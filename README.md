@@ -1,4 +1,4 @@
-# US-firearm-background-checks-analysis
+# US Firearm Background Checks Analysis
 
 ### Project Overview
 
